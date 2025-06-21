@@ -1,0 +1,8 @@
+1. Home Page (/)
+- Welcome message, short intro, profile picture (optional), navigation bar
+2. About Page (/about)
+- Bio, education, achievements, resume link (optional)
+3. Projects Page (/projects)
+- 3-5 projects with title, description, tech stack, GitHub/demo links
+4. Contact Page (/contact)
+- Email, LinkedIn/GitHub, optional contact form
